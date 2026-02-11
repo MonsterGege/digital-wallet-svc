@@ -311,7 +311,7 @@ Untuk development:
 Jika ada pertanyaan atau issues:
 
 * Buat issue di repository
-* Email: [your-email@example.com]
+* Email: georgeonsent10@gmail.com
 
 ---
 
